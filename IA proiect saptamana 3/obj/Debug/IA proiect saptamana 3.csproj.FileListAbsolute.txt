@@ -1,0 +1,30 @@
+D:\Facultate\An 3 sem 1\IA\IA proiect saptamana 3\IA proiect saptamana 3\bin\Debug\IA proiect saptamana 3.exe.config
+D:\Facultate\An 3 sem 1\IA\IA proiect saptamana 3\IA proiect saptamana 3\bin\Debug\IA proiect saptamana 3.exe
+D:\Facultate\An 3 sem 1\IA\IA proiect saptamana 3\IA proiect saptamana 3\bin\Debug\IA proiect saptamana 3.pdb
+D:\Facultate\An 3 sem 1\IA\IA proiect saptamana 3\IA proiect saptamana 3\obj\Debug\IA proiect saptamana 3.csprojAssemblyReference.cache
+D:\Facultate\An 3 sem 1\IA\IA proiect saptamana 3\IA proiect saptamana 3\obj\Debug\IA_proiect_saptamana_3.Form1.resources
+D:\Facultate\An 3 sem 1\IA\IA proiect saptamana 3\IA proiect saptamana 3\obj\Debug\IA_proiect_saptamana_3.Properties.Resources.resources
+D:\Facultate\An 3 sem 1\IA\IA proiect saptamana 3\IA proiect saptamana 3\obj\Debug\IA proiect saptamana 3.csproj.GenerateResource.cache
+D:\Facultate\An 3 sem 1\IA\IA proiect saptamana 3\IA proiect saptamana 3\obj\Debug\IA proiect saptamana 3.csproj.CoreCompileInputs.cache
+D:\Facultate\An 3 sem 1\IA\IA proiect saptamana 3\IA proiect saptamana 3\obj\Debug\IA proiect saptamana 3.exe
+D:\Facultate\An 3 sem 1\IA\IA proiect saptamana 3\IA proiect saptamana 3\obj\Debug\IA proiect saptamana 3.pdb
+F:\Cursuri\An 3 sem 1\IA\IA proiect saptamana 3\IA proiect saptamana 3\bin\Debug\IA proiect saptamana 3.exe.config
+F:\Cursuri\An 3 sem 1\IA\IA proiect saptamana 3\IA proiect saptamana 3\bin\Debug\IA proiect saptamana 3.exe
+F:\Cursuri\An 3 sem 1\IA\IA proiect saptamana 3\IA proiect saptamana 3\bin\Debug\IA proiect saptamana 3.pdb
+F:\Cursuri\An 3 sem 1\IA\IA proiect saptamana 3\IA proiect saptamana 3\obj\Debug\IA proiect saptamana 3.csprojAssemblyReference.cache
+F:\Cursuri\An 3 sem 1\IA\IA proiect saptamana 3\IA proiect saptamana 3\obj\Debug\IA_proiect_saptamana_3.Form1.resources
+F:\Cursuri\An 3 sem 1\IA\IA proiect saptamana 3\IA proiect saptamana 3\obj\Debug\IA_proiect_saptamana_3.Properties.Resources.resources
+F:\Cursuri\An 3 sem 1\IA\IA proiect saptamana 3\IA proiect saptamana 3\obj\Debug\IA proiect saptamana 3.csproj.GenerateResource.cache
+F:\Cursuri\An 3 sem 1\IA\IA proiect saptamana 3\IA proiect saptamana 3\obj\Debug\IA proiect saptamana 3.csproj.CoreCompileInputs.cache
+F:\Cursuri\An 3 sem 1\IA\IA proiect saptamana 3\IA proiect saptamana 3\obj\Debug\IA proiect saptamana 3.exe
+F:\Cursuri\An 3 sem 1\IA\IA proiect saptamana 3\IA proiect saptamana 3\obj\Debug\IA proiect saptamana 3.pdb
+G:\Proiecte\Metode-de-parcurgeri-labirint\IA proiect saptamana 3\bin\Debug\IA proiect saptamana 3.exe.config
+G:\Proiecte\Metode-de-parcurgeri-labirint\IA proiect saptamana 3\bin\Debug\IA proiect saptamana 3.exe
+G:\Proiecte\Metode-de-parcurgeri-labirint\IA proiect saptamana 3\bin\Debug\IA proiect saptamana 3.pdb
+G:\Proiecte\Metode-de-parcurgeri-labirint\IA proiect saptamana 3\obj\Debug\IA proiect saptamana 3.csproj.AssemblyReference.cache
+G:\Proiecte\Metode-de-parcurgeri-labirint\IA proiect saptamana 3\obj\Debug\IA_proiect_saptamana_3.Form1.resources
+G:\Proiecte\Metode-de-parcurgeri-labirint\IA proiect saptamana 3\obj\Debug\IA_proiect_saptamana_3.Properties.Resources.resources
+G:\Proiecte\Metode-de-parcurgeri-labirint\IA proiect saptamana 3\obj\Debug\IA proiect saptamana 3.csproj.GenerateResource.cache
+G:\Proiecte\Metode-de-parcurgeri-labirint\IA proiect saptamana 3\obj\Debug\IA proiect saptamana 3.csproj.CoreCompileInputs.cache
+G:\Proiecte\Metode-de-parcurgeri-labirint\IA proiect saptamana 3\obj\Debug\IA proiect saptamana 3.exe
+G:\Proiecte\Metode-de-parcurgeri-labirint\IA proiect saptamana 3\obj\Debug\IA proiect saptamana 3.pdb
